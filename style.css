@@ -39,10 +39,6 @@ a {
     text-decoration: none;
     color: inherit;
 }
-/* html,
-body {
-    cursor: none;
-} */
 
 body {
     min-height: 100vh;
@@ -1224,6 +1220,9 @@ section {
     }
     .tokenomics {
         padding-bottom: 48px;
+    }
+    .custom-cursor{
+        display: none;
     }
 }
 
